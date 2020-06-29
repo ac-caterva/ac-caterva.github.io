@@ -4,8 +4,8 @@ Belgarath der Zauberer ist der erste Schüler des Gottes Aldur. Er lebt schon so
 
 ## Charaktereigenschaften
 
-- trinkt gerne Bier
-- erzaehlt gerne Gescichten
-- liebt es als Wolf unterwegs zu sein
-- vermisst seine Frau und seine 2te Tochter
-- traegt nicht gerne feine Roben
+* trinkt gerne Bier
+* erzaehlt gerne Gescichten
+* liebt es als Wolf unterwegs zu sein
+* vermisst seine Frau und seine 2te Tochter
+* traegt nicht gerne feine Roben
