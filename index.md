@@ -20,3 +20,8 @@ Belgarath der Zauberer ist der erste Schüler des Gottes Aldur. Er lebt schon so
 > might possibly not be completely idiots, but I much
 > prefer the company of people who agree with me.
 > You might want to think about that.”
+
+
+## Bild
+
+<img src="https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/85184024_114095173516069_1373881074047984830_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=i4tiozvItgEAX8i6yIv&oh=6511237bf9e084efb606772aa9460745&oe=5F169888"/>
